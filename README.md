@@ -1,3 +1,5 @@
+Project from the course https://cursos.alura.com.br/course/angular-explorando-framework
+
 # Memoteca
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
