@@ -1,25 +1,13 @@
 {
   "pensamentos": [
     {
-      "id": 1,
-      "conteudo": "Angular 1",
-      "autoria": "eu",
-      "modelo": "modelo1"
-    },
-    {
       "id": 2,
       "conteudo": "Angular 2",
       "autoria": "eu",
       "modelo": "modelo2"
     },
     {
-      "id": 3,
-      "conteudo": "Angular 3",
-      "autoria": "eu",
-      "modelo": "modelo3"
-    },
-    {
-      "conteudo": "aaa",
+      "conteudo": "111",
       "autoria": "222",
       "modelo": "modelo2",
       "id": 4

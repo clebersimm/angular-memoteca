@@ -1,5 +1,10 @@
 Project from the course https://cursos.alura.com.br/course/angular-explorando-framework
 
+To start the project:   
+backend: go to the folder backend, npm start   
+frontend: ng serve   
+open the browser: http://localhost:4200
+
 # Memoteca
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
