@@ -35,7 +35,6 @@ export class EditarPensamentoComponent implements OnInit {
       })
     })
   }
-
   editarPensamento() {
     if(this.formulario.valid){
       this.service.editar(this.formulario.value).subscribe(()=>{
@@ -43,9 +42,12 @@ export class EditarPensamentoComponent implements OnInit {
       })
     }
   }
-
   cancelar() {
     this.router.navigate(['/listarPensamento'])
   }
-
+  habilitarBotao(): string {
+    if(this.formulario.valid){
+      return "botao"
+    } else return "botao__desabilitado"
+  }
 }
