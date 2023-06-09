@@ -4,19 +4,22 @@
       "id": 2,
       "conteudo": "Angular 2",
       "autoria": "eu",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": true
     },
     {
       "conteudo": "111",
       "autoria": "222",
       "modelo": "modelo2",
-      "id": 4
+      "id": 4,
+      "favorito": false
     },
     {
       "conteudo": "abc",
       "autoria": "bc",
       "modelo": "modelo1",
-      "id": 5
+      "id": 5,
+      "favorito": false
     }
   ]
 }
